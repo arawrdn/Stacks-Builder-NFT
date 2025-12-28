@@ -5,7 +5,7 @@ Stacks Builder is a limited-supply NFT collection (100 total) built on Base Netw
 ## Overview
 - **Network:** Base
 - **Total Supply:** 100
-- **Mint Limit:** 2 Per Wallet
+- **Mint Limit:** 2 Per Wallet (FCFS)
 - **Mint Price:** Free (Gas only)
 
 ## Future Utilities
